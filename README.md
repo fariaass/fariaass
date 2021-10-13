@@ -1,6 +1,6 @@
 ## Fala galera, Sou o Lucas :sunglasses:
 <div align="center">
-  <a href="https://github.com/pedro-fmm">
+  <a href="https://github.com/FarinhaProgrammer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarinhaProgrammer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarinhaProgrammer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
