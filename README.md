@@ -1,4 +1,4 @@
-## Fala galera, Sou o Lucas :sunglasses:
+##Olá, sou o Lucas! :sunglasses:
 <div align="center">
   <a href="https://github.com/FarinhaProgrammer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarinhaProgrammer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
