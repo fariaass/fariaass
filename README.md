@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Lucas-Django" height="30" width="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fdjango.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Fpt%2Flogo%2Fdjango&tbnid=LWtsu5aHsfZnoM&vet=12ahUKEwicx9CmvoT3AhWlM7kGHQOJC_oQMygBegUIARC3AQ..i&docid=Bt5n5GI2j_uN9M&w=1963&h=2500&q=svg%20django&ved=2ahUKEwicx9CmvoT3AhWlM7kGHQOJC_oQMygBegUIARC3AQ">
   <img align="center" alt="Lucas-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Lucas-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
