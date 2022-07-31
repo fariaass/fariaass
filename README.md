@@ -8,7 +8,6 @@
   <img align="center" alt="Lucas-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
   <img align="center" alt="Lucas-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Django" height="30" width="40" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true">
 </div>
