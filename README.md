@@ -37,8 +37,8 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 
 ### Certifications:
-> AWS Foundational Cloud Practicioner
-> AWS Associate Solutions Architect
+* AWS Foundational Cloud Practicioner
+* AWS Associate Solutions Architect
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
