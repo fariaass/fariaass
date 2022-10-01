@@ -36,6 +36,10 @@
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 
+### Certifications:
+> AWS Foundational Cloud Practicioner
+> AWS Associate Solutions Architect
+
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FarinhaProgrammer}/count.svg" /></p> 
