@@ -37,6 +37,7 @@
 ### Certifications:
 * AWS Foundational Cloud Practicioner
 * AWS Associate Solutions Architect
+* AWS Associate Developer
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
